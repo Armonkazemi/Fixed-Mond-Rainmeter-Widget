@@ -1,7 +1,7 @@
 #  Mond Rainmeter Widget (Fixed & Enhanced)
 
-![Mond Weather Widget Preview](https://i.imgur.com/your-preview-image.png)
-*Replace this with a screenshot of your working widget!*
+<img width="674" height="258" alt="image" src="https://github.com/user-attachments/assets/0c3e194d-9b86-4d4a-aa11-d2d26621e7b1" />
+
 
 ---
 
@@ -72,8 +72,8 @@ This is the most important step. The widget will not work without a valid API ke
 2.  After signing in, navigate to the **"API keys"** tab.
 3.  Copy the default key provided, or create a new one.
 
-![OpenWeather API Key Location](https://i.imgur.com/your-api-key-screenshot.png)
-*Consider adding a screenshot here showing where the API key is on the OpenWeather dashboard.*
+<img width="1364" height="319" alt="image" src="https://github.com/user-attachments/assets/7175bf7f-8b08-44d3-9fc6-3c2bde218ee6" />
+
 
 > **Important:** It can take **5-20 minutes** for a new API key to become active. If the widget shows "0" or missing data at first, wait a while and refresh.
 
